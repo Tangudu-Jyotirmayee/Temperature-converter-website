@@ -31,3 +31,6 @@ TASK-3 of my Web development and Designing internship at Oasis Infobyte.
 
 SNAPSHOT:
 ![Screenshot 2024-05-28 151403](https://github.com/Tangudu-Jyotirmayee/Temperature-converter-website/assets/170788125/0af407dc-3286-4d29-9abe-f095b48255b2)
+
+![TEMP](https://github.com/Tangudu-Jyotirmayee/Temperature-converter-website/assets/170788125/d9ebe6b9-157a-4577-bc86-24bfd23c1745)
+
